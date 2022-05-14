@@ -8,3 +8,4 @@ public class MessagestoUser {
         return "Your number is less than the mysterious number";
     }
 }
+
